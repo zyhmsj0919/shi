@@ -46,7 +46,7 @@ def run():
     print(mod1.dummy)#dummy=3
 
     1
-    1
+
 
     return
 
