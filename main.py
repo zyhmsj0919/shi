@@ -45,8 +45,6 @@ def run():
     scSim.TotalSim.SingleStepProcesses()#执行第三次任务，单步执行任务
     print(mod1.dummy)#dummy=3
 
-    1
-
 
     return
 
